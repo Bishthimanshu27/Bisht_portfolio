@@ -68,6 +68,7 @@ h4.heading:after {
 }
 .img-responsive {
   margin: 0 auto;
+  max-width: 80%;
 }
 .box {
   margin-bottom: 30px;
@@ -960,4 +961,9 @@ a.list-group-item.active > .badge,
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
+}
+
+.js
+{
+    margin: auto;
 }
